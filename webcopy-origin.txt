@@ -1,0 +1,44 @@
+Uri: https://1games.io/game/hill-climb-race/
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\index.htm
+Content Type: text/html
+
+Uri: https://1games.io/game/hill-climb-race/BRLNSDB.TTF
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\BRLNSDB.TTF
+Content Type: font/ttf
+
+Uri: https://1games.io/game/hill-climb-race/favicon.png
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\favicon.png
+Content Type: image/png
+
+Uri: https://1games.io/game/hill-climb-race/loading.png?v=1
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\loading.png
+Content Type: image/png
+
+Uri: https://1games.io/game/hill-climb-race/loading_fill.png
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\loading_fill.png
+Content Type: image/png
+
+Uri: https://1games.io/game/hill-climb-race/TemplateData/fullscreen-button.png
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\TemplateData\fullscreen-button.png.html
+Content Type: text/html
+
+Uri: https://1games.io/game/hill-climb-race/TemplateData/style.css
+File Name: C:\Downloaded Web Sites\1games.io\game\hill-climb-race\TemplateData\style.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics-compat.js
+File Name: C:\Downloaded Web Sites\1games.io\firebasejs\10.9.0\firebase-analytics-compat.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/10.9.0/firebase-app-compat.js
+File Name: C:\Downloaded Web Sites\1games.io\firebasejs\10.9.0\firebase-app-compat.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/10.9.0/firebase-auth-compat.js
+File Name: C:\Downloaded Web Sites\1games.io\firebasejs\10.9.0\firebase-auth-compat.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js
+File Name: C:\Downloaded Web Sites\1games.io\firebasejs\10.9.0\firebase-firestore-compat.js
+Content Type: text/javascript
+
